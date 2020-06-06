@@ -1,2 +1,2 @@
 # canvas
-mi primer dibujo en canvas
+my first canvas drawing
